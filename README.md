@@ -1,2 +1,2 @@
 # Smart-Lock-System
-Smar Lock System Using Arduino and NodeMCU with BLYNK
+Smart Lock System Using Arduino and NodeMCU with BLYNK
