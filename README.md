@@ -1,5 +1,5 @@
 
-## Project idea and codes all developed by:          
+## Project developed by:          
 ## Janmejay Mohapatra 
 ### B.Tech in Electrical & Electronics Engineering
 
