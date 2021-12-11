@@ -31,7 +31,7 @@ void loop(){
   if(val==1)
   {
     digitalWrite(D0,HIGH);
-     Blynk.email("mabhishek0898@gmail.com", "Smart Lock", "Somebody Entered Wrong Password ");
+     Blynk.email("", "Smart Lock", "Somebody Entered Wrong Password ");// first quote mail id to send mail
     Blynk.notify("Smart Lock -> Somebody Entered Wrong Password");
   
     
