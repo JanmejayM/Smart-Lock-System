@@ -1,6 +1,8 @@
 Project idea and codes all developed by: 
-         Janmejay Mohapatra 
-B.Tech Electrical & Electronics Engineering
+         
+         
+         #Janmejay Mohapatra 
+#B.Tech Electrical & Electronics Engineering
 
 # Smart-Lock-System
 Smart Lock System Using Arduino and NodeMCU with BLYNK
