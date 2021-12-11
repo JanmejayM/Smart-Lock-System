@@ -1,7 +1,6 @@
-Project idea and codes all developed by: 
-         
-         
-# Janmejay Mohapatra 
+
+# Project idea and codes all developed by:          
+## Janmejay Mohapatra 
 B.Tech Electrical & Electronics Engineering
 
 # Smart-Lock-System
