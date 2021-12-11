@@ -6,7 +6,7 @@
 
 
 SoftwareSerial NodeMCU(D2,D3);
-char auth[] = "GZrHi_u0D9d4BC3gb0w6q_qgINa6aBsZ"; //Blynk authentication token
+char auth[] = ""; //Blynk authentication token
 char ssid[] = "";        // wifi hotspot
 char pass[] = "";   //wifi password
 
