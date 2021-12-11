@@ -1,3 +1,7 @@
+Project idea and codes all developed by: 
+         Janmejay Mohapatra 
+B.Tech Electrical & Electronics Engineering
+
 # Smart-Lock-System
 Smart Lock System Using Arduino and NodeMCU with BLYNK
 In this project, we have made the Smart Lock System Using Arduino , Keypad & NodeMCU. As thefts are increasing day by day security is becoming a major concern nowadays. So a digital code lock can secure your home or locker easily. It will open your door only when the right password is entered.
